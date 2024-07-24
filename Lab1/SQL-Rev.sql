@@ -1,0 +1,2 @@
+select * from MOVIE where MOVIE.MVTYPE = "HORROR"
+SELECT * from DIRECTOR where DIRECTOR.DIRNUMB = 1
